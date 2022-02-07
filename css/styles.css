@@ -24,8 +24,8 @@ header {
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: linear-gradient(to right, $color-secondary, $color-primary, $color-dark);
-    color: white;
+    background-image: linear-gradient(blue);
+    color: purple;
 }
 
 .row-content {
@@ -35,7 +35,7 @@ header {
 }
 
 .navbar {
-    background-color: $color-primary;
+    background-color: purple
 }
 
 a, a:hover {
